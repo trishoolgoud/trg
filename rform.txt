@@ -7,7 +7,7 @@
                  }
             label{
                 display:inline-block;
-                width:150px;
+                
                 }
             input[type="submit"]{
                 background-color: rgb(214, 165, 29); color: black;
